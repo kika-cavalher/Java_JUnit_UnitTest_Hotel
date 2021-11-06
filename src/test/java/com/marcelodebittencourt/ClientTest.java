@@ -10,9 +10,9 @@ public class ClientTest {
     @Test
     @DisplayName("Create a new client")
     void testCreateNewClient() {
-        Client client = new Client(1, "Fulano");
+        Client client = new Client(1, "Erica");
         assertEquals(1, client.getId());
-        assertEquals("Fulano", client.getName());
+        assertEquals("Erica", client.getName());
     }
 
 }

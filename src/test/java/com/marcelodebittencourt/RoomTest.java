@@ -11,7 +11,7 @@ public class RoomTest {
 
         //Entrada
         int roomNunber = 200;
-        String roomName = "lux";
+        String roomName = "lux room";
         double roomPrice = 500;
 
         //Teste
